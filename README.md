@@ -1,5 +1,10 @@
 # AhaQuiz
 
+> **This repository is archived.** It was an experiment with the Aha stack and
+> is not being developed. The quiz itself lives in
+> [Goftan](https://github.com/goftan/goftan.github.io), which also builds the
+> Quiz Pulse browser extension.
+
 Exploring the **Aha Stack** (Astro + htmx + Alpine.js) by building a quiz app. This repo contains two sub-projects at different stages of development.
 
 ## Sub-projects
